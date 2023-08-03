@@ -1,0 +1,31 @@
+.wow h1{
+    color: pink;
+    text-align: center;
+}
+.wow h1{
+    font-size: 50px;
+}
+.wow1{
+    text-align: justify; padding: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.image img{
+    width: 50%;
+}
+.image{
+    text-align: center;
+}
+.content h1{
+    color: blueviolet
+}
+.content h1{
+    text-align: center;
+    font-size: 30px;
+}
+.content h1{
+    font-size: 50px;
+}
+.content1{
+    text-align: justify; padding: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
